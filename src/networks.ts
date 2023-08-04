@@ -112,4 +112,8 @@ const networks: { [key: string]: INetwork } = {
     nodeUrl: 'https://testnet2.matic.network',
     chainId: '8995',
   },
+  rikeza: {
+    nodeUrl: 'https://rpc.rikscan.com',
+    chainId: '1433',
+  },
 };
